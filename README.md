@@ -2,6 +2,8 @@
 
 A mod that automatically adds a crossyard (a lower yard) to square topsails placed above fore-and-aft sails.
 
+<img width="1276" height="1184" alt="Screenshot_43" src="https://github.com/user-attachments/assets/af246d23-0865-4db4-b7fe-933a29cd8efc" />
+
 ### How it works
 
 - A square sail gets a yard at its foot if there are only fore-and-aft sails (gaff, lateen etc.) below it.
