@@ -1,4 +1,4 @@
-## Topsail Crossyard
+## Topsail Crossyards
 
 A mod that automatically adds a crossyard (a lower yard) to square topsails placed above fore-and-aft sails.
 
